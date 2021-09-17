@@ -1,0 +1,7 @@
+#I ran a seies of awk and piped commands that cross checked who the dealer on shift was when Mylie was there playing roulette and a loss was recorded.
+#As previously noted, Mylie is the most likley player to be in collustion with a dealer.
+#Billy Jones is the dealer that was on for each of the shifts when a loss was recorded and Mylie was playing.
+#Therefore we can conclude that Billy and Mylie were working in tandem to cheat the casino.
+
+#ex: awk '{print $1,$2,$5,$6}' 0312_Dealer_schedule | grep "05:00:00 AM"
+
