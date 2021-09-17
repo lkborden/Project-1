@@ -4,11 +4,11 @@ GitHub Fundamentals and Project 13 Submission
 
 The files in this repository were used to configure the network depicted below.
 
-(https://github.com/lkborden/Project-1/blob/main/Diagrams/ELK_Stack_Diagram.JPG)
+![TODO: Update the path with the name of your diagram](https://github.com/lkborden/Project-1/blob/main/Diagrams/ELK_Stack_Diagram.JPG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: elk-playbook.yml.txt._
+  elk-playbook.yml
 
 This document contains the following details:
 - Description of the Topologu
@@ -48,7 +48,7 @@ Only the JumpBox machine can accept connections from the Internet. Access to thi
 76.171.189.35
 
 Machines within the network can only be accessed by the JumpBox.
--20.98.70.83
+20.98.70.83
 
 A summary of the access policies in place can be found in the table below.
 
