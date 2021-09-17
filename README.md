@@ -4,7 +4,8 @@ GitHub Fundamentals and Project 13 Submission
 
 The files in this repository were used to configure the network depicted below.
 
-https://github.com/lkborden/Project-1/blob/main/Diagrams/%5BLonie%20Borden%5D%20Project%201%20Diagram.JPG Project-1/Diagrams/[Lonie Borden] Project 1 Diagram.JPG
+https://github.com/lkborden/Project-1/blob/main/Diagrams/%5BLonie%20Borden%5D%20Project%201%20Diagram.JPG
+Project-1/Diagrams/[Lonie Borden] Project 1 Diagram.JPG
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
