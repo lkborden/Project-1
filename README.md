@@ -96,8 +96,11 @@ SSH into the control node and follow the steps below:
 - Update the host file to include ips addresses on the network.
 - Run the yml files, and navigate to http://[ELK ip address]:5601/app/kibana to check that the installation worked as expected.
 
-_TODO: Answer the following questions to fill in the blanks:_
+### Using the Playbook Pt.2
 -Copy the multiple .yml files from /TheKeyToElk/Ansible to the jumpbox ansible continaer.
+
 -Update the Hosts file to include two sections [elk] [webservers] with each having their respective VM IPs directly under them.
+
 -Also in the Hosts file, update server IPs with Python3.
+
 -Navigate to http://(ElkIPAddress):5601/app/kibana to make sure the elk server is running.
